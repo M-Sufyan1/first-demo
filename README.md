@@ -1,2 +1,2 @@
 # first-demo
-This is the first demo of Git and Github
+This is the first demo of Git and Github.
